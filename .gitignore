@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
+/Topics/Iterating over arrays/Alphabetical order/out/
+/Topics/Iterating over arrays/Alphabetical order/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/The longest ascending sequence/out/
+/Topics/Iterating over arrays/The longest ascending sequence/out/production/classes/
+/Topics/Iterating over arrays/Triples/out/
+/Topics/Iterating over arrays/Triples/out/production/classes/
+/Topics/Multidimensional array/The star figure/out/
+/Topics/Multidimensional array/The star figure/out/production/classes/
